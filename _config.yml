@@ -1,7 +1,7 @@
 title: Trent Kindvall # your name (or website title) here
-logo: <img src="images/Headshot.jpg" border-radius: 30px> # your photo (or logo) here
+<img src="/Images/Headshot.jpg" alt="MarineGEO circle logo" style="eight: 100px; width:100px;"/>
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist
   <br><br>
   Second description 
   <br><br>
