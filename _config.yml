@@ -1,5 +1,5 @@
 title: Trent Kindvall # your name (or website title) here
-<img src="/Images/Headshot.jpg" alt="MarineGEO circle logo" style="eight: 100px; width:100px;"/>
+logo: <img src="/Images/Headshot.jpg" style="eight: 100px; width:100px;"/>
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist
   <br><br>
