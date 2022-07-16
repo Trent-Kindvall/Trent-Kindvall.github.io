@@ -1,5 +1,5 @@
 title: Trent Kindvall # your name (or website title) here
-logo: "/images/Headshot.jpg?raw=true" # your photo (or logo) here
+logo: <img src="images/Headshot.jpg" border-radius: 30px> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
