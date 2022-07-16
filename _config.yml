@@ -1,5 +1,5 @@
 title: Trent Kindvall # your name (or website title) here
-logo: <img src="/Images/Headshot.jpg" style="eight: 100px; width:100px;"/>
+logo: "/Images/Headshot.jpg"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist
   <br><br>
