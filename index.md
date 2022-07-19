@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Lane Detection](/sample_page)
-<img src="images/lane_detection.jpg?raw=true"/>
+<img src="images/cover-photo-lane-detection.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
