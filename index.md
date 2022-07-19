@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Lane Detection](https://github.com/Trent-Kindvall/AutoKart/tree/main/readme.md)
+[Lane Detection](/lane-detection.md)
 <img src="images/cover-photo-lane-detection.jpg?raw=true"/>
 
 ---
